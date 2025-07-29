@@ -24,6 +24,10 @@ function Home() {
         effective, and creative applications.
       </p>
 
+      <p style={{ fontSize: "1rem", marginTop: "1rem", color: "gray" }}>
+        This is a new paragraph added to demonstrate the CI/CD workflow in Assignment 4.
+      </p>
+
       {/* Mission Statement section */}
       <h2 style={{ marginTop: "2rem", fontSize: "1.5rem" }}>My Mission</h2>
       <p>
