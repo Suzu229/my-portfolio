@@ -1,0 +1,42 @@
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build output
+dist/
+client/dist/
+server/dist/
+build/
+client/build/
+server/build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS・Editor
+.DS_Store
+Thumbs.db
+*.swp
+
+# dotenv
+.env
+.env.* 
+
+# IDE 
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Test coverage
+coverage/
+cypress/screenshots/
+cypress/videos/
+
+# misc
+*.log
